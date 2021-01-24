@@ -1,0 +1,19 @@
+{
+  "name": "angular-typeahead-20mb",
+  "description": "",
+  "license": "ISC",
+  "homepage": "https://github.com/jsusilo/angular-typeahead",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "0.11.2",
+    "angular": "1.3.2",
+    "bootstrap": "3.3.0",
+    "jquery": "2.1.1"
+  }
+}
